@@ -1,3 +1,16 @@
+Packaging PM CRM — Next.js + Supabase.
+
+## Email voice profile
+
+AI drafting rules for Nick Mills work email live in:
+
+- [`docs/email-voice-profile.md`](docs/email-voice-profile.md) — canonical templates and style rules
+- [`docs/email-voice-handoff.md`](docs/email-voice-handoff.md) — interview decisions and session history
+
+Standalone copy: https://github.com/nickmills78-ai/email-voice-profile
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
