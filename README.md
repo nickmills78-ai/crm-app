@@ -1,13 +1,21 @@
 Packaging PM CRM — Next.js + Supabase.
 
-## Email voice profile
+## Nick Mills — work profiles
 
-AI drafting rules for Nick Mills work email live in:
+Local copies for this app:
 
-- [`docs/email-voice-profile.md`](docs/email-voice-profile.md) — canonical templates and style rules
-- [`docs/email-voice-handoff.md`](docs/email-voice-handoff.md) — interview decisions and session history
+- [`docs/aboutme.md`](docs/aboutme.md) — detailed about-me / working profile for project handoffs (trim per project)
+- [`docs/aboutme-handoff.md`](docs/aboutme-handoff.md) — interview decisions and open items for `aboutme.md`
+- [`docs/email-voice-profile.md`](docs/email-voice-profile.md) — email drafting voice, templates, and style rules
+- [`docs/email-voice-handoff.md`](docs/email-voice-handoff.md) — interview decisions and session history for email voice
 
-Standalone copy: https://github.com/nickmills78-ai/email-voice-profile
+**Canonical context hub:** https://github.com/nickmills78-ai/project-context  
+Also: https://github.com/nickmills78-ai/email-voice-profile (email voice standalone)
+
+### GitHub MCP
+
+Project MCP template: [`.cursor/mcp.json`](.cursor/mcp.json)  
+Setup steps (PAT, Desktop, Cloud Agents): [`docs/github-mcp-setup.md`](docs/github-mcp-setup.md)
 
 ---
 
