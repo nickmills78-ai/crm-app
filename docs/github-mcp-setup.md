@@ -7,7 +7,9 @@ Two different GitHub connections exist in Cursor. You usually want **both**.
 | **Cursor GitHub App** | Cloud Agents clone/push/PRs on connected repos | Install app on GitHub |
 | **GitHub MCP server** | Agent tools: create repos, issues, PRs, search, etc. | Personal Access Token (PAT) |
 
-This repo already includes a Desktop/project template at [`.cursor/mcp.json`](../.cursor/mcp.json) that points at GitHub’s hosted MCP endpoint. It expects an environment variable named `GITHUB_PAT` — **no token is stored in git**.
+This repo already includes a Desktop/project template at [`.cursor/mcp.json`](../.cursor/mcp.json) that points at GitHub’s hosted MCP endpoint. It expects an environment variable named `GITHUB_PAT`.
+
+**Local secrets file:** put tokens in [`.env`](../.env) (gitignored). Start from [`.env.example`](../.env.example). **Never commit `.env`.** Cursor’s remote GitHub MCP reads process env (`GITHUB_PAT`), not `.env` automatically — either export it in your shell before launching Cursor, or paste the token in Settings → Tools & MCP.
 
 ---
 
