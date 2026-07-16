@@ -32,6 +32,7 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 | 2026-07-16 | Round 5 answers incorporated. Tenure month/year still needs confirmation. |
 | 2026-07-16 | Tenure confirmed: started Oct 2012; Project Director since April 2014. |
 | 2026-07-16 | Renamed `me.md` → `aboutme.md` (and handoff). Target canonical hub: `nickmills78-ai/project-context`. |
+| 2026-07-16 | Standalone hub live: https://github.com/nickmills78-ai/project-context |
 
 ---
 
