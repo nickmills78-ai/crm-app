@@ -338,4 +338,4 @@ AI may draft, organize, research, and recommend.
 
 **Last updated:** 2026-07-16  
 **Owner:** Nick Mills  
-**Canonical path:** `docs/me.md`
+**Canonical path:** `docs/aboutme.md` in this app; hub copy in `nickmills78-ai/project-context` as `aboutme.md`

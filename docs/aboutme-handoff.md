@@ -2,8 +2,9 @@
 
 **Last updated:** 2026-07-16  
 **Owner:** Nick Mills  
-**Canonical profile:** `docs/me.md`  
+**Canonical profile:** `docs/aboutme.md`  
 **Related:** `docs/email-voice-profile.md` (email voice only)
+**Context hub (canonical):** https://github.com/nickmills78-ai/project-context
 
 ---
 
@@ -17,9 +18,9 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 
 | File | Role |
 |---|---|
-| `docs/me.md` | **Canonical** about-me / working profile |
-| `docs/me-handoff.md` | Session history, decisions, open items (this file) |
-| `docs/email-voice-profile.md` | How to draft Nick’s email — do not duplicate full voice rules into `me.md` |
+| `docs/aboutme.md` | **Canonical** about-me / working profile |
+| `docs/aboutme-handoff.md` | Session history, decisions, open items (this file) |
+| `docs/email-voice-profile.md` | How to draft Nick’s email — do not duplicate full voice rules into `aboutme.md` |
 
 ---
 
@@ -27,9 +28,10 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 
 | Date | Work |
 |---|---|
-| 2026-07-16 | Interview rounds 1–4. Created `docs/me.md` and this handoff. |
+| 2026-07-16 | Interview rounds 1–4. Created `docs/aboutme.md` and this handoff. |
 | 2026-07-16 | Round 5 answers incorporated. Tenure month/year still needs confirmation. |
 | 2026-07-16 | Tenure confirmed: started Oct 2012; Project Director since April 2014. |
+| 2026-07-16 | Renamed `me.md` → `aboutme.md` (and handoff). Target canonical hub: `nickmills78-ai/project-context`. |
 
 ---
 
@@ -74,7 +76,7 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 - Vendors: preferred partners
 - Fire drills: missed ETAs, quality rejects, wrong specs, price creep, silent vendors, last-minute qty changes
 - Fluent metrics language: margin %, on-time %, MOQ, tooling, freight, landed cost, customer satisfaction
-- Location: `docs/me.md`
+- Location: `docs/aboutme.md`
 - Exclusions: salary, personal politics
 - Example wins: skipped; philosophy captured in round 5 instead
 
