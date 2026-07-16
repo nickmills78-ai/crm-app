@@ -12,6 +12,11 @@ Local copies for this app:
 **Canonical context hub:** https://github.com/nickmills78-ai/project-context  
 Also: https://github.com/nickmills78-ai/email-voice-profile (email voice standalone)
 
+### GitHub MCP
+
+Project MCP template: [`.cursor/mcp.json`](.cursor/mcp.json)  
+Setup steps (PAT, Desktop, Cloud Agents): [`docs/github-mcp-setup.md`](docs/github-mcp-setup.md)
+
 ---
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
