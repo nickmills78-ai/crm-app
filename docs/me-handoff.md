@@ -28,6 +28,7 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 | Date | Work |
 |---|---|
 | 2026-07-16 | Interview rounds 1–4. Created `docs/me.md` and this handoff. |
+| 2026-07-16 | Round 5 answers incorporated. Tenure month/year still needs confirmation. |
 
 ---
 
@@ -48,7 +49,7 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 - Primary: relationship management, sourcing, project management, negotiation
 - Secondary: specs/technical packaging, quoting/RFQ, logistics, quality/compliance
 - Depth: run projects, don’t engineer them
-- Tools: Outlook, Claude, Excel
+- Tools (then): Outlook, Claude, Excel
 - Flow: inquiry → quote → PO → production → delivery
 - Decisions: prefer full data to avoid quality mistakes; situational exceptions
 - Friction: slow/unresponsive/rude vendors, quality issues, too many meetings for simple decisions
@@ -74,23 +75,32 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 - Fluent metrics language: margin %, on-time %, MOQ, tooling, freight, landed cost, customer satisfaction
 - Location: `docs/me.md`
 - Exclusions: salary, personal politics
-- Example wins: skipped for now
+- Example wins: skipped; philosophy captured in round 5 instead
+
+### Round 5 — Gaps closed
+
+| Item | Decision |
+|---|---|
+| A Tenure | Stated: company since Oct 2012; PD since April 2012 — **date conflict; confirm** |
+| B Setup | Office most days; good/flexible hours |
+| C Design | Mostly internal + vendors; can include clients |
+| D Industries | Broad |
+| E Tools | This CRM, Outlook, Copilot, Claude, Grok (+ Excel retained) |
+| F Move fast | When he has a good understanding of the product and part |
+| G Send rule | **Confirmed:** AI never sends; Nick reviews everything |
+| H Other internals | None to add for now |
+| I How he thinks | Manufacturing-industry expert mentality; how/where to make given criteria; take on everything clients allow; valuable beyond parts; long-term partnerships |
 
 ---
 
-## Still open (ask next)
+## Still open
 
-1. Tenure / time in role  
-2. Office vs hybrid vs remote + hours  
-3. What “design” means operationally (internal / customer / vendor)  
-4. Client industries  
-5. Other tools (CRM, chat, ERP, portals)  
-6. Concrete “move fast” vs “wait for data” triggers  
-7. Optional anonymized win stories  
-8. Any other internal names/roles to document  
+1. **Confirm tenure dates** — April 2012 vs October 2012 order does not line up with same-year promotion story.  
+2. Optional: named example project win (anonymized).  
+3. Optional: add more internal names later.
 
 ---
 
 ## Next step
 
-Optional **round 5** to close open items above, then tighten `docs/me.md`. Or paste a redacted project example to calibrate the “how I think” section.
+Nick confirms the start vs Project Director dates → update Identity / Role sections and clear the open item. Profile is otherwise ready to trim per project.

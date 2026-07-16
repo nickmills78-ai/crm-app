@@ -18,7 +18,9 @@
 | Company | Stephen Gould |
 | Work email | ngmills@stephengould.com |
 | Location | San Diego, CA |
-| Company context | Packaging supply and sourcing (B2B) |
+| Work setup | In office most days; flexible “good hours” — does what needs doing when it needs doing |
+| Company context | Packaging supply and sourcing (B2B); client industries are **broad**, not niche-only |
+| Tenure | At Stephen Gould since **October 2012** (see date note below) |
 
 **How to refer to him in docs and drafts:** Nick (or Nick Mills in signatures / formal identity blocks).
 
@@ -49,7 +51,16 @@ ISO 9001:2015 COMPLIANT
 
 **Career path:** Started as a sales assistant at Stephen Gould; promoted to Project Director.
 
-**Open (not yet confirmed in interview):** years at company / in role; office vs hybrid vs remote; typical hours.
+**Tenure (interview answer — needs date confirmation):**  
+Nick reported being at the company since **October 2012** and Project Director since **April 2012**. Those dates conflict (April is before October in the same year), and the sales-assistant → director path usually means the director date is later. **Confirm the correct pair** (likely candidates: started April 2012 / PD October 2012, or started October 2012 / PD April of a later year). Until confirmed, agents may say “at Stephen Gould since 2012” and “Project Director” without citing the April/October split.
+
+### Operating philosophy (“how I think”)
+
+- Approach work with an **expert mentality on the manufacturing industry as a whole** — not only the part currently on the desk.  
+- Given clear client criteria, focus on **how and where to make almost anything** (sourcing / manufacturing network judgment).  
+- Goal with clients: run **any and everything** they allow him to take on — expand scope of trust.  
+- Make himself **valuable beyond the parts** being supplied (problem-solving partner, not a transactional seller).  
+- Always aim for **long-term partnerships**.
 
 ---
 
@@ -59,9 +70,9 @@ ISO 9001:2015 COMPLIANT
 
 | Audience | Relationship model | Notes |
 |---|---|---|
-| **Customers** | Long-term account ownership | Optimize for trust and continuity, not one-off transactions |
+| **Customers** | Long-term account ownership | Broad industries. Grow wallet share: take on everything the client will entrust; stay valuable beyond individual parts |
 | **Suppliers / vendors** | Preferred partners | Prefer known partners over shopping the market every time; still hold them accountable on ETA, quality, and price |
-| **Design** | Regular collaborator | Works with design on packaging projects (internal vs customer vs vendor design ownership — **open**, confirm when needed) |
+| **Design** | Mostly internal + vendors | Client design involvement happens too; clarify owner per project |
 
 ### Internal
 
@@ -69,7 +80,7 @@ ISO 9001:2015 COMPLIANT
 |---|---|---|
 | **Katia Soto-Gonzalez** | Places orders; follows up with vendors | Account strategy, sourcing decisions, customer communication, escalation, negotiation, project direction |
 
-Agents should treat Katia as a key operational partner on order placement and vendor follow-up. Do not invent other internal owners unless Nick confirms them.
+Agents should treat Katia as a key operational partner on order placement and vendor follow-up. **No other internal names documented at this time** — do not invent additional owners unless Nick confirms them.
 
 ### Tone with people
 
@@ -93,13 +104,11 @@ Respect for the other person’s position comes first. Tone then adjusts situati
 - Logistics  
 - Quality / compliance  
 
-### Technical packaging depth
+### Technical packaging vs manufacturing sourcing depth
 
-**Knows enough to run projects, not engineer them.** Agents should:
+**Packaging engineering:** Knows enough to **run projects, not engineer them**. Do not invent structural engineering, material science, or compliance conclusions a specialist should own.
 
-- Use correct packaging/business vocabulary  
-- Flag missing specs and quality risks  
-- **Not** invent structural engineering, material science, or compliance conclusions Nick would need a specialist for  
+**Manufacturing / sourcing judgment:** Operates with an expert, industry-wide manufacturing mentality — strong on **how and where** something can be made once the client gives criteria. Agents should support that by gathering criteria clearly, mapping make/source options, and not under-selling his ability to take on adjacent work the client might hand him.
 
 When specs are ambiguous: surface gaps and options; do not guess critical dimensions, materials, or compliance claims.
 
@@ -113,6 +122,7 @@ Nick optimizes for:
 2. **Trust** — customers and partners believe commitments  
 3. **Efficiency** — fewer loops, fewer meetings for simple decisions  
 4. **Solid margins** — commercially healthy outcomes, not wins at any cost  
+5. **Long-term partnership / expanded scope** — become valuable beyond the current parts; earn the right to run more of the client’s work  
 
 ### When priorities conflict
 
@@ -137,7 +147,8 @@ Agents helping on a live job should state which stage the work is in and what th
 ## 7. Decision style
 
 - **Default:** Prefer waiting for full data when missing information could cause mistakes or quality issues.  
-- **Exception:** Situation by situation — can move faster when risk is low and context is known (exact triggers **open**; see interview follow-ups).  
+- **Move faster when:** he has a **good understanding of the product and part** (known territory / familiar criteria).  
+- **Slow down when:** product/part understanding is weak, specs are incomplete, or a miss would create quality risk.  
 - **Escalation mindset:** Surface risk early; do not hide bad news; do not paper over quality problems.
 
 ---
@@ -147,10 +158,13 @@ Agents helping on a live job should state which stage the work is in and what th
 | Tool | Role |
 |---|---|
 | **Outlook** | Primary email / communication |
-| **Excel** | Analysis, tracking, working data |
+| **This CRM app** | Customer/project working system (this repo) |
+| **Excel** | Analysis, tracking, working data (from earlier interview) |
+| **Microsoft Copilot** | AI assistance in Microsoft workflow |
 | **Claude** | AI assistance (drafting, research, organization) |
+| **Grok** | AI assistance |
 
-**Open:** CRM app usage depth, Teams/Slack, ERP, supplier portals — confirm if agents should assume them.
+Agents may assume these tools are in play. Do not assume Teams/Slack, ERP, or supplier portals unless a project says so.
 
 ---
 
@@ -211,9 +225,9 @@ Also drains time/energy:
 
 ## 12. Working rhythm
 
-Always working to some extent — does what needs to be done when it needs to be done. Do not assume rigid 9–5 boundaries in planning, but also do not manufacture urgency. Prefer concrete dates and owners over vague “asap.”
-
-**Open:** formal office/hybrid/remote setup and stated core hours.
+- **Location:** Office most days.  
+- **Hours:** “Good hours” — flexible; always working to some extent; does what needs to be done when it needs to be done.  
+- Do not assume a rigid 9–5 cutoff in planning, but also do not manufacture urgency. Prefer concrete dates and owners over vague “asap.”
 
 ---
 
@@ -245,20 +259,20 @@ Always working to some extent — does what needs to be done when it needs to be
 - Prefer accountability and specific next steps  
 - For key-customer sensitivity and email templates, defer to [`email-voice-profile.md`](email-voice-profile.md)
 
-### Approval gate (non-negotiable)
+### Approval gate (non-negotiable) — confirmed
 
 AI may draft, organize, research, and recommend.  
-**Nick must look over all emails prior to sending.** No auto-send. No “send on your behalf” unless he explicitly orders a one-off exception in the moment.
+**AI never sends email.** Nick reviews **everything** before it goes out. No auto-send. No “send on your behalf” unless he explicitly orders a one-off exception in the moment.
 
 ---
 
 ## 14. Vendor & customer operating preferences
 
-**Customers:** Long-term account ownership. Continuity and trust beat transactional optimization.
+**Customers:** Long-term account ownership across **broad** industries. Continuity and trust beat transactional optimization. Expand scope: take on everything the client will allow; stay valuable beyond parts supplied.
 
 **Vendors:** Preferred partners. Build and use those relationships; still escalate firmly on silence, missed ETAs, quality, and price creep. Prefer separate, clear asks with reply deadlines over endless meetings.
 
-**Design:** Involved in the loop; clarify owners per project rather than assuming.
+**Design:** Mostly handled **internally and with vendors**; can also involve **clients**. Clarify design owner per project rather than assuming.
 
 ---
 
@@ -272,16 +286,19 @@ AI may draft, organize, research, and recommend.
 - Protect quality when tradeoffs appear  
 - Flag silent vendors, ETA slip, spec gaps, price creep early  
 - Use margin / MOQ / tooling / freight / landed cost / on-time / customer satisfaction language  
+- Support manufacturing sourcing judgment: gather criteria, map how/where to make  
+- Look for ways to deepen long-term client partnerships (adjacent work, not just the open PO)  
 - Draft emails in his voice profile, ready for his edit  
 
 ### Don’t
 
-- Send anything externally without approval  
+- **Send** anything externally without approval (draft only)  
 - Commit price, date, or legal terms  
 - Blame vendors to customers  
 - Apologize “for the company” on his behalf  
 - Use slang  
 - Over-engineer packaging specs  
+- Treat him as narrow/transactional when the client could hand him more  
 - Pad with meetings-shaped process for simple decisions  
 - Put salary or personal politics into project docs  
 
@@ -296,19 +313,19 @@ AI may draft, organize, research, and recommend.
 
 ---
 
-## 17. Open interview items (fill later)
+## 17. Open interview items
 
 | ID | Topic | Status |
 |---|---|---|
-| A | Tenure at Stephen Gould / as Project Director | Open |
-| B | Office / hybrid / remote + rough hours | Open |
-| C | Design partners: internal / customer / vendors / all | Open |
-| D | Client industries: specialized vs broad | Open |
-| E | Other tools (CRM, Teams/Slack, ERP, portals) | Open |
-| F | When he moves fast without full data vs waits | Open |
-| G | Confirm never-send rule (believed confirmed: yes) | Soft-confirmed via Round 2–3 |
-| H | Anonymized example wins / “how I think” stories | Open (skipped) |
-| I | Additional internal stakeholders beyond Katia | Open |
+| A | Exact start vs Project Director month/year | **Needs confirmation** (Oct 2012 vs April 2012 conflict) |
+| B | Office / hours | Closed — office most days; flexible good hours |
+| C | Design partners | Closed — mostly internal + vendors; clients as needed |
+| D | Client industries | Closed — broad |
+| E | Tools | Closed — CRM, Outlook, Copilot, Claude, Grok (+ Excel from earlier) |
+| F | Move-fast trigger | Closed — when he understands the product and part well |
+| G | Never-send rule | **Confirmed** — AI never sends; Nick reviews everything |
+| H | “How I think” | Closed — manufacturing expert mentality; expand scope; long-term partnerships |
+| I | Other internal stakeholders | Closed for now — Katia only; none others to add |
 
 ---
 
@@ -320,6 +337,7 @@ AI may draft, organize, research, and recommend.
 | 2 | Strengths, knowledge depth, tools, project flow, decision style, frustrations, AI help + no-send rule |
 | 3 | Respect-first tone, good-help criteria, info formats, quality-first tradeoff, never-dos, working rhythm; personal life omitted |
 | 4 | Katia’s role, long-term accounts, preferred vendors, fire drills, metrics language, file location + exclusions |
+| 5 | Tenure dates (pending confirm), office setup, design owners, broad industries, tool stack, move-fast rule, never-send confirm, philosophy |
 
 **Last updated:** 2026-07-16  
 **Owner:** Nick Mills  
