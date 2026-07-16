@@ -29,6 +29,7 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 |---|---|
 | 2026-07-16 | Interview rounds 1–4. Created `docs/me.md` and this handoff. |
 | 2026-07-16 | Round 5 answers incorporated. Tenure month/year still needs confirmation. |
+| 2026-07-16 | Tenure confirmed: started Oct 2012; Project Director since April 2014. |
 
 ---
 
@@ -81,7 +82,7 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 
 | Item | Decision |
 |---|---|
-| A Tenure | Stated: company since Oct 2012; PD since April 2012 — **date conflict; confirm** |
+| A Tenure | **Confirmed:** started Oct 2012; Project Director since April 2014 |
 | B Setup | Office most days; good/flexible hours |
 | C Design | Mostly internal + vendors; can include clients |
 | D Industries | Broad |
@@ -93,14 +94,13 @@ Living, detailed work profile for Nick Mills so AI agents and project handoffs c
 
 ---
 
-## Still open
+## Still open (optional)
 
-1. **Confirm tenure dates** — April 2012 vs October 2012 order does not line up with same-year promotion story.  
-2. Optional: named example project win (anonymized).  
-3. Optional: add more internal names later.
+1. Named example project win (anonymized).  
+2. Additional internal names later.
 
 ---
 
 ## Next step
 
-Nick confirms the start vs Project Director dates → update Identity / Role sections and clear the open item. Profile is otherwise ready to trim per project.
+Profile is ready to use and trim per project. Optional polish: anonymized win stories or more stakeholders.

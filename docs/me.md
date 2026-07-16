@@ -20,7 +20,7 @@
 | Location | San Diego, CA |
 | Work setup | In office most days; flexible “good hours” — does what needs doing when it needs doing |
 | Company context | Packaging supply and sourcing (B2B); client industries are **broad**, not niche-only |
-| Tenure | At Stephen Gould since **October 2012** (see date note below) |
+| Tenure | At Stephen Gould since **October 2012**; Project Director since **April 2014** |
 
 **How to refer to him in docs and drafts:** Nick (or Nick Mills in signatures / formal identity blocks).
 
@@ -49,10 +49,7 @@ ISO 9001:2015 COMPLIANT
 
 **What that means day to day:** Own the customer relationship and the path from need → sourced solution → order → production → delivery. Coordinate suppliers and design so the right packaging gets quoted, placed, produced, and delivered without quality or trust failures.
 
-**Career path:** Started as a sales assistant at Stephen Gould; promoted to Project Director.
-
-**Tenure (interview answer — needs date confirmation):**  
-Nick reported being at the company since **October 2012** and Project Director since **April 2012**. Those dates conflict (April is before October in the same year), and the sales-assistant → director path usually means the director date is later. **Confirm the correct pair** (likely candidates: started April 2012 / PD October 2012, or started October 2012 / PD April of a later year). Until confirmed, agents may say “at Stephen Gould since 2012” and “Project Director” without citing the April/October split.
+**Career path:** Started as a sales assistant at Stephen Gould in **October 2012**; promoted to Project Director in **April 2014**.
 
 ### Operating philosophy (“how I think”)
 
@@ -317,7 +314,7 @@ AI may draft, organize, research, and recommend.
 
 | ID | Topic | Status |
 |---|---|---|
-| A | Exact start vs Project Director month/year | **Needs confirmation** (Oct 2012 vs April 2012 conflict) |
+| A | Exact start vs Project Director month/year | Closed — started Oct 2012; PD since April 2014 |
 | B | Office / hours | Closed — office most days; flexible good hours |
 | C | Design partners | Closed — mostly internal + vendors; clients as needed |
 | D | Client industries | Closed — broad |
